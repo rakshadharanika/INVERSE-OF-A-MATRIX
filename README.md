@@ -1,4 +1,6 @@
 # INVERSE-OF-A-MATRIX
+## NAME  : V RAKSHA DHARANIKA
+## REF.NO: 212223230167
 ## Aim:
 To write a python program to find the inverse of a matrix
 ## Equipment’s required:
